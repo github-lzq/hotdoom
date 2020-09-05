@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/hotboom_admin/hotboom_admin.iml" filepath="$PROJECT_DIR$/hotboom_admin/hotboom_admin.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/hotdoom.iml" filepath="$PROJECT_DIR$/.idea/hotdoom.iml" />
     </modules>
   </component>
